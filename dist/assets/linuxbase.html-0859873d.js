@@ -1,0 +1,1 @@
+import{ab as t,G as a,H as n,E as e,S as s}from"./framework-f86f98ae.js";const c={},o=e("h1",{id:"linux基础笔记",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#linux基础笔记","aria-hidden":"true"},"#"),s(" Linux基础笔记")],-1),r=e("p",null,"哈哈哈",-1),i=[o,r];function _(l,d){return a(),n("div",null,i)}const h=t(c,[["render",_],["__file","linuxbase.html.vue"]]);export{h as default};

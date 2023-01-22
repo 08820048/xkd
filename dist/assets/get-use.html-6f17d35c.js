@@ -1,0 +1,1 @@
+import{ab as t,G as a,H as r,E as e,S as o}from"./framework-f86f98ae.js";const s={},c=e("h1",{id:"typora的激活与使用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#typora的激活与使用","aria-hidden":"true"},"#"),o(" Typora的激活与使用")],-1),n=[c];function _(d,i){return a(),r("div",null,n)}const l=t(s,[["render",_],["__file","get-use.html.vue"]]);export{l as default};
